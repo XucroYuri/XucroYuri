@@ -1,80 +1,79 @@
 <!--
-  XucroYuri — GitHub Profile README (special repository)
-  Repo name MUST match username: XucroYuri/XucroYuri
+  XucroYuri — GitHub Profile README
+  Only PUBLIC repositories are linked below (verified 2026-11-17).
+  Private flagship work (ScriptOS, Director, NewsSentry, …) is not listed as browsable links.
 -->
 
 <h1 align="center">Hi, I'm XucroYuri</h1>
 
 <p align="center">
-  <strong>Indie developer</strong> building tools for <em>writing</em>, <em>directing</em>, and <em>watching the world</em> with AI — artifact-first, CLI-friendly, shippable deploys.
-</p>
-
-<p align="center">
-  Chengdu · Building in public · 中文 / EN docs
+  <strong>Indie developer</strong> — agents, CLIs, and creative pipelines (AI writing · film · OSINT).
+  <br/>Artifact-first workflows · Chengdu · 中文 / EN
 </p>
 
 ---
 
-## What I ship
+## Public repos you can open today
 
-| | Product | One line |
-|:--:|---------|----------|
-| 📜 | **[ScriptOS](https://github.com/XucroYuri/ScriptOS)** | Headless **story artifact** OS for episodic scripts — contracts, not chat logs |
-| 📜 | **[literary-creation](https://github.com/XucroYuri/literary-creation)** | Application layer on ScriptOS for creative writing workflows |
-| 🎬 | **[AI-Director](https://github.com/XucroYuri/AI-Director)** | Pro **film production** console — script → shots → prompts → pipeline |
-| 🎬 | **[animeboard](https://github.com/XucroYuri/animeboard)** | Lightweight **9-grid storyboard** studio (web) |
-| 📡 | **[NewsSentry](https://github.com/XucroYuri/NewsSentry)** | Self-hostable **news / signal** monitoring (FastAPI, Docker) |
-| 📡 | **[tagvault-cli](https://github.com/XucroYuri/tagvault-cli)** | **Automation CLI** — jobs, dedupe, reports |
-| 🔧 | **[CLISYS](https://github.com/XucroYuri/CLISYS)** | **Agent / CLI fabric** — orchestrate tools across runtimes |
+> Profile links **only public** repositories. Private production code (ScriptOS, AI-Director, NewsSentry, animeboard, etc.) stays off this page until published.
 
-> **Write · Direct · Watch** — three lines, six repos. Older grid/director experiments are **archived**; active work lives in the repos above.
+| | Repository | One line |
+|:--:|------------|----------|
+| 🔧 | **[CLISYS](https://github.com/XucroYuri/CLISYS)** | Agent / **CLI fabric** — orchestrate Codex, Claude Code, MCP |
+| 🔧 | **[OpenCLI-Studio](https://github.com/XucroYuri/OpenCLI-Studio)** | **Open CLI** hub & studio layer |
+| 📡 | **[goratio](https://github.com/XucroYuri/goratio)** | Small **quant / ratio** CLI |
+| 🎨 | **[math-wallpapers](https://github.com/XucroYuri/math-wallpapers)** | **Generative math** wallpapers |
 
----
-
-## Labs & smaller tools
-
-- **[AI-OpenWorld-Research](https://github.com/XucroYuri/AI-OpenWorld-Research)** — open-world / narrative systems research  
-- **[goratio](https://github.com/XucroYuri/goratio)** — quant CLI experiments  
-- **[math-wallpapers](https://github.com/XucroYuri/math-wallpapers)** — generative wallpapers  
+**Suggested pins (all public):** CLISYS · OpenCLI-Studio · goratio · math-wallpapers
 
 ---
 
-## Stack I reach for
+## What I build (product lines)
 
-`TypeScript` · `Python` · `FastAPI` · `Rust` (where it hurts) · `Docker` · `Vite` · **MCP** / agents · seedance & video APIs
+These are the **names** of my main lines. Repos are **private** today; public releases will use the same names when ready.
+
+| Line | Focus |
+|------|--------|
+| **Write** | ScriptOS — story **artifacts** & contracts (not one-shot chat) |
+| **Direct** | AI-Director · animeboard — script → storyboard → video pipeline |
+| **Watch** | NewsSentry · tagvault-cli — monitoring & automation |
+
+`CLISYS` / `OpenCLI-Studio` tie the tooling layer together.
 
 ---
 
-## Commercial / client work
+## Labs
 
-Huachi (花吃) production stacks — **hc-gpt**, platform backends — are **private** and not listed here. This profile is the **personal open-source** surface.
+**AI-OpenWorld-Research** — open-world / narrative systems (repository is **private**; not linked).
 
 ---
 
-## Archive policy
+## Stack
 
-I archive duplicate UI forks and superseded lineages (Sora gen-1, old 9-grid repos) so newcomers see **one path per job**. See portfolio notes in my Code workspace governance docs.
+`TypeScript` · `Python` · `FastAPI` · `Docker` · `Vite` · **MCP** · agents
+
+---
+
+## Note on archives
+
+I **archive** duplicate grid/director UI forks and superseded Sora lineages so the public graph stays readable.
 
 ---
 
 <details>
 <summary><strong>中文简介</strong></summary>
 
-我是独立开发者 **XucroYuri**，主要做三条线：
-
-- **写（Write）**：`ScriptOS` — 用 artifact 和合约写可拍摄的剧集，而不是一次性对话  
-- **导（Direct）**：`AI-Director` + `animeboard` — 从剧本到分镜、提示词与成片工作流  
-- **看（Watch）**：`NewsSentry`、`tagvault-cli` — 可部署的情报监测与自动化 CLI  
-
-`CLISYS` 负责串联 Agent/CLI。花吃商业项目为私有仓库，不在本 Profile 展示。  
-大量早期 Director/Grid 变体已 **Archive**，请以上述主仓为准。
+独立开发者，方向：**写（剧本 artifact）· 导（分镜/制片）· 看（情报与 CLI 自动化）**。  
+本页 **只链公开仓库**：`CLISYS`、`OpenCLI-Studio`、`goratio`、`math-wallpapers`。  
+ScriptOS、AI-Director、NewsSentry、animeboard 等旗舰仓目前为 **私有**，访客无法打开，故不在此放直链。  
+花吃商业线均为私有，不在 Profile 展示。
 
 </details>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/XucroYuri/ScriptOS">ScriptOS</a> ·
-  <a href="https://github.com/XucroYuri/AI-Director">AI-Director</a> ·
-  <a href="https://github.com/XucroYuri/NewsSentry">NewsSentry</a>
+  <a href="https://github.com/XucroYuri/CLISYS">CLISYS</a> ·
+  <a href="https://github.com/XucroYuri/OpenCLI-Studio">OpenCLI-Studio</a> ·
+  <a href="https://github.com/XucroYuri/goratio">goratio</a>
 </p>
